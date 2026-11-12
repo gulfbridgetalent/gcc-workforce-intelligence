@@ -5,7 +5,7 @@
 **Verified Talent. Reliable Deployment.**
 
 GulfBridge Talent is an international workforce recruitment
-and mobilization company founded on 18 November 2018,
+and mobilization company founded on 18 November 2023,
 headquartered in Lucknow, India.
 
 This public repository shares workforce planning research,
